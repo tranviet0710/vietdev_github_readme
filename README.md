@@ -16,10 +16,10 @@
 <br />
 
 ### Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Dev C++" width="26px" src="https://phanmemcntt.com/wp-content/uploads/2020/08/download-dev-c-5.9.2-moi-nhat.png" />
-<img align="left" alt="Eclipse" width="26px" src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" />
+<img align="left" alt="Eclipse" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoplvdrNz7E5z9yTlnIHMopQKhjOIUFnY5dhue12svVcqvgtm46a5lC1ePEjJD3MGcQgE&usqp=CAU" />
 <img align="left" alt="NetBean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://pngset.com/images/sublime-text-icon-label-symbol-logo-trademark-transparent-png-666171.png" />
@@ -47,7 +47,7 @@
 
 <br />
 <br />
-
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=pikapika0710&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 ---
 [facebook]: https://www.facebook.com/pikapika0710/
 [twitter]: https://twitter.com/TrnCngVit2
