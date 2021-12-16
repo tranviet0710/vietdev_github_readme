@@ -45,6 +45,12 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+---
+[facebook]: https://www.facebook.com/pikapika0710/
+[twitter]: https://twitter.com/TrnCngVit2
+[instagram]: https://www.instagram.com/isnotfound._.404/
+[youtube]: https://www.youtube.com/channel/UCi9quT0sJSgsd6n48SDKi8g
+
 <br />
 <br />
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=pikapika0710&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
@@ -52,8 +58,4 @@
 <br />
 <br />
 
----
-[facebook]: https://www.facebook.com/pikapika0710/
-[twitter]: https://twitter.com/TrnCngVit2
-[instagram]: https://www.instagram.com/isnotfound._.404/
-[youtube]: https://www.youtube.com/channel/UCi9quT0sJSgsd6n48SDKi8g
+
