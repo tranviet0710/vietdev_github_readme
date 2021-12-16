@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, trying my best to complete myself!
 - ⚡ Fun fact: I love to listen to music, play soccer and talk to friends!
  
-- 📩 Write to me:  <a href = "bit.ly/DearPika"> DearPika </a>
+- 📩 Write to me:  <a href = "https://docs.google.com/forms/d/e/1FAIpQLSc7XrzgYpPsZpxnMckOSRt796BqtQCZo4nA43EdZ4Zj4m5oCw/viewform?fbclid=IwAR2icBWdm-bCHS_NrmjOLC6a2m4c4MFrt6y3pAkAKXCjWU2I9yWegm2xA7g"> DearPika </a>
 
 ### Connect with me:
 [<img align="left" alt="VietDEV | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
