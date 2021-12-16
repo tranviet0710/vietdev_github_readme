@@ -51,9 +51,6 @@
 [instagram]: https://www.instagram.com/isnotfound._.404/
 [youtube]: https://www.youtube.com/channel/UCi9quT0sJSgsd6n48SDKi8g
 
-<br/>
----
-<br/>
 
 <br />
 <br />
