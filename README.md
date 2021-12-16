@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects, trying my best to complete myself!
 - ⚡ Fun fact: I love to listen to music, play soccer and talk to friends!
-- 
-- 📩 Write to me: bit.ly/DearPika
+ 
+- 📩 Write to me:  <a href = "bit.ly/DearPika"> DearPika </a>
 
 ### Connect with me:
 [<img align="left" alt="VietDEV | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
