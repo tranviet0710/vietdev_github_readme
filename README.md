@@ -17,8 +17,8 @@
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" />
-<img align="left" alt="Dev C++" width="26px" src="https://e7.pngegg.com/pngimages/381/321/png-clipart-dev-c-integrated-development-environment-gnu-compiler-collection-others-logo-computer-program.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
+<img align="left" alt="Dev C++" width="26px" src="https://phanmemcntt.com/wp-content/uploads/2020/08/download-dev-c-5.9.2-moi-nhat.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" />
 <img align="left" alt="NetBean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
@@ -31,7 +31,7 @@
 <br />
 
 ### Languages
-<img align="left" alt="C" width="26px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://banner2.cleanpng.com/20180418/glq/kisspng-the-c-programming-language-computer-programming-programming-5ad7395d4c2638.9232807315240543653119.jpg" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
