@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects, trying my best to complete myself!
-- ⚡ Fun fact: I love to listen to music, play soccer and talk to friends!
+- 🥅 2022 Goals: Contribute more to Open Source projects, trying my best to complete myself!
+- ⚡ Fun fact: I love to code, learn english, listen to music, play soccer, travel and talk to friends!
  
 - 📩 Write to me:  <a href = "bit.ly/DearPika"> DearPika </a>
 
