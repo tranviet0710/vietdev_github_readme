@@ -1,6 +1,6 @@
 ### Hi there, I'm VietDEV 👋 
 
-## I'm a Developer, and English Teacher!!
+## I'm a Web Developer, and English Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
