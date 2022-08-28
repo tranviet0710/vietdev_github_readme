@@ -1,6 +1,6 @@
 ### Hi there, I'm VietDEV 👋 
 
-## I'm a Programmer, Web Developer, Freelancer
+## I'm a Web Developer, Freelancer and Programmer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
