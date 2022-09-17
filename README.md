@@ -1,6 +1,6 @@
 ### Hi there, I'm VietDEV 👋 
 
-## I'm a Web Developer, Freelancer and Programmer
+## I'm a Web Developer, Programmer and Freelancer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -14,7 +14,7 @@
 [<img align="left" alt="VietDEV | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VietDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VietDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
+<br />
 
 ### Tools
 <div>
@@ -29,7 +29,7 @@
    <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
-<br>
+<br />
 
 ### Languages
 <div>
@@ -55,7 +55,7 @@
    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>
 
-[facebook]: https://www.facebook.com/pikapika0710/
+[facebook]: https://www.facebook.com/tranviet0710/
 [twitter]: https://twitter.com/TrnCngVit2
 [instagram]: https://www.instagram.com/tranviet._.0710/
 [youtube]: https://www.youtube.com/channel/UCi9quT0sJSgsd6n48SDKi8g
