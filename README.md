@@ -59,10 +59,10 @@
 [twitter]: https://twitter.com/TrnCngVit2
 [instagram]: https://www.instagram.com/tranviet._.0710/
 [youtube]: https://www.youtube.com/channel/UCi9quT0sJSgsd6n48SDKi8g
-<br />
+
 <br />
 # WELCOME TO MY WORLD 💓💓💓
-<br />
+
 <br />
 <img src = "https://github-readme-stats.vercel.app/api?username=pikapika0710&count_private=true"/>
 
