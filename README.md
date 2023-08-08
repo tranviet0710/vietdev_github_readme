@@ -1,16 +1,11 @@
-### Hi there, I'm VietDEV 👋 
+### VietDEV 👋 
 
 ## I'm a Web Developer, Programmer and Freelancer
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects, trying my best to complete myself!
-- ⚡ Fun fact: I love to code, learn english, listen to music, play soccer, travel and talk to friends!
  
 - 📩 Write to me:  <a href = "http://bit.ly/DearPika"> DearPika </a>
 
 ### Connect with me
-[<img align="left" alt="VietDEV | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="VietDEV | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-iconsx@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="VietDEV | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VietDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VietDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
